@@ -16,3 +16,21 @@ body {
   justify-self: flex-start;
   margin-right: auto;
 }
+
+.image-container {
+  position: relative;
+}
+
+.image-container-child {
+  position: absolute;
+  bottom: 120px;
+  left: 0px;
+  background-color: white;
+  opacity: 50%;
+  width: 1280px;
+  height: 20%;
+}
+
+.image-container img {
+  object-fit: cover;
+}

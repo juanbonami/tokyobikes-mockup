@@ -17,7 +17,8 @@ export default class Header extends Component {
                     <div>CART</div>
                 </div>
                 <div className="image-container">
-                  <img src={logo2}></img>  
+                  <img  src={logo2}></img>
+                  <div className="image-container-child">hello</div>  
                 </div>
                 
             </div>
