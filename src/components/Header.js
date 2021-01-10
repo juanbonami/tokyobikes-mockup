@@ -25,7 +25,7 @@ export default class Header extends Component {
                       <a id="shop-me-button" className="image-text">SHOP NOW</a>
                     </div>  
                 </div>
-                  <div className="button">hello</div> 
+                  <div className="button">SHOP NOW</div> 
                 </div>
                 
                 

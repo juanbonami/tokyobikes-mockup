@@ -52,12 +52,15 @@ body {
 
 .button {
   background-color: white;
-  border: solid 1px;
-  opacity: 1;
   width: 90px;
   position: absolute;
-  top: 82%;
+  top: 81%;
   left: 5%;
+  font-size: 11px;
+  display: flex;
+  justify-content: center;
+  line-height: 20px;
+  padding: 9px;
 }
 
 .container {
