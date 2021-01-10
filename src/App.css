@@ -42,3 +42,24 @@ body {
 .image-text {
   padding: 10px;
 }
+
+/* #shop-me-button {
+  background-color: yellow;
+  border: solid 1px;
+  opacity: ;
+  width: 90px;
+} */
+
+.button {
+  background-color: white;
+  border: solid 1px;
+  opacity: 1;
+  width: 90px;
+  position: absolute;
+  top: 82%;
+  left: 5%;
+}
+
+.container {
+  position: relative;
+}

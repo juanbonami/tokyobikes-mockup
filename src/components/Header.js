@@ -16,14 +16,19 @@ export default class Header extends Component {
                     <div>MY ACCOUNT</div>
                     <div>CART</div>
                 </div>
-                <div className="image-container">
+                <div className="container">
+                 <div className="image-container">
                   <img  src={logo2}></img>
                     <div className="image-container-child">
                       <div className="image-text">Our little tokyobike</div>
                       <div className="image-text">The same attention to detail and simple, functional design as the grown-up version, but shrunk to perfection.</div>
-                      <a className="image-text">SHOP NOW</a>
+                      <a id="shop-me-button" className="image-text">SHOP NOW</a>
                     </div>  
                 </div>
+                  <div className="button">hello</div> 
+                </div>
+                
+                
                 
             </div>
             
