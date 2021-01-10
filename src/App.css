@@ -41,6 +41,8 @@ body {
 
 .image-text {
   padding: 10px;
+  width: 60%;
+  font-weight: 500;
 }
 
 /* #shop-me-button {
@@ -54,7 +56,7 @@ body {
   background-color: white;
   width: 90px;
   position: absolute;
-  top: 81%;
+  top: 83%;
   left: 5%;
   font-size: 11px;
   display: flex;

@@ -22,7 +22,6 @@ export default class Header extends Component {
                     <div className="image-container-child">
                       <div className="image-text">Our little tokyobike</div>
                       <div className="image-text">The same attention to detail and simple, functional design as the grown-up version, but shrunk to perfection.</div>
-                      <a id="shop-me-button" className="image-text">SHOP NOW</a>
                     </div>  
                 </div>
                   <div className="button">SHOP NOW</div> 
