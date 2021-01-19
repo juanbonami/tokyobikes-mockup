@@ -1,6 +1,7 @@
 body {
-  max-width: 65%;
+  max-width: 67%;
   margin: auto;
+  box-sizing: border-box;
 }
 
 .header {
@@ -85,4 +86,10 @@ body {
    padding: 80px;
    font-size: x-small;
    font-weight: bolder, 200;
+ }
+
+ .tokyobike-layout {
+   display: flex;
+   flex-shrink: inherit;
+   flex-wrap: wrap;
  }
