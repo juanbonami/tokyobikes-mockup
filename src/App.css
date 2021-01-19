@@ -90,6 +90,10 @@ body {
 
  .tokyobike-layout {
    display: flex;
-   flex-shrink: inherit;
    flex-wrap: wrap;
+   justify-content: center;
+ }
+
+ .product-item {
+   padding: 20px;
  }

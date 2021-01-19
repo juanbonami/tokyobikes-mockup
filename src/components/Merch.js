@@ -12,12 +12,12 @@ export default class Merch extends Component {
             <div>
                 <div id="merch-header">MEET THE TOKYOBIKE LINE UP</div>
                 <div className="tokyobike-layout">
-                    <img height={250} src={img1}></img>
-                    <img height={250} src={img2}></img>
-                    <img height={250} src={img3}></img>
-                    <img height={250} src={img4}></img>
-                    <img height={250} src={img5}></img>
-                    <img height={250} src={img6}></img>   
+                    <img className="product-item" height={260} src={img1}></img>
+                    <img className="product-item" height={260} src={img2}></img>
+                    <img className="product-item" height={260} src={img3}></img>
+                    <img className="product-item" height={260} src={img4}></img>
+                    <img className="product-item" height={260} src={img5}></img>
+                    <img className="product-item" height={260} src={img6}></img>   
                 </div>
             </div>
         )
