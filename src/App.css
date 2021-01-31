@@ -79,13 +79,15 @@ body {
 
  /* MERCH COMPONENT */
 
- #merch-header {
+ #merch-header, #tokyobike-header {
    display: flex;
    justify-content: center;
    font-family: Helvetica;
    padding: 80px;
    font-size: x-small;
-   font-weight: bolder, 200;
+   font-weight: bold;
+   letter-spacing: 1px;
+   color: #5d5d5d;
  }
 
  .tokyobike-layout {
@@ -96,4 +98,42 @@ body {
 
  .product-item {
    padding: 20px;
+ }
+
+ /* INSIDE TOKYOBIKE SECTION */
+
+ .tokyobike-layout-two {
+   display: flex;
+   justify-content: space-evenly;
+   /* text-align: center; */
+   font-family: helvetica;
+   font-size: small;
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+ }
+
+ .tokyobike-layout-two h5 {
+   width: 80%;
+ }
+
+ .content-item {
+   display: flex;
+   justify-content: space-evenly;
+   text-align: center;
+   color: #5d5d5d;
+ }
+
+ .content-item h5 {
+   font-weight: bold;
+   font-size: 12px;
+ }
+
+ .content-item p {
+   font-weight: normal;
+   font-size: 12px;
+ }
+
+ .content-item div {
+   width: 425px;
  }
