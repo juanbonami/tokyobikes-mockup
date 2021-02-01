@@ -148,3 +148,14 @@ body {
    padding: 8px 10px;
    font-size: 10px;
  }
+
+
+ /* ******************** FOOTER ********************* */
+
+ .footer-container {
+   display: flex
+ }
+
+ .footer-section ul {
+   list-style-type: none;
+ }
