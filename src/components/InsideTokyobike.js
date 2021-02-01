@@ -25,14 +25,17 @@ export default class InsideTokyobike extends Component {
                        <div>
                         <h5>A DAY AT CANNON BEACH</h5>
                           <p>A day off and a summer ride along the scenic coastline of Cannon<br></br> Beach, Oregon.</p>
+                          <a>SEE MORE</a>
                         </div>
                         <div>
                             <h5>COLLABORATIONS</h5>
-                          <p>Collaborations are a huge part of our DNA, click and explore <br></br> some of our favorites.</p> 
+                          <p>Collaborations are a huge part of our DNA, click and explore <br></br> some of our favorites.</p>
+                          <a>SEE ALL</a>
                         </div>
                         <div>
                             <h5>WHEN IN TOKYO</h5>
-                          <p>Enjoy this evolving compilation of our favorite places, created to <br></br> help you explore Tokyo at your own pace.</p> 
+                          <p>Enjoy this evolving compilation of our favorite places, created to <br></br> help you explore Tokyo at your own pace.</p>
+                          <a>TAKE ME THERE</a> 
                         </div> 
                     </div>
                     
