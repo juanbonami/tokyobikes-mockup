@@ -153,9 +153,35 @@ body {
  /* ******************** FOOTER ********************* */
 
  .footer-container {
-   display: flex
+   display: flex;
+   padding-top: 60px;
+   padding-bottom: 30px;
+ }
+
+ .footer-section {
+   width: 383.33px;
+   color: #5d5d5d;
+   text-align: left;
+   font-size: 11px;
+   line-height: 1.6;
+   font-family: helvetica;
+   text-transform: uppercase;
  }
 
  .footer-section ul {
    list-style-type: none;
+ }
+
+ li:first-child {
+   border-bottom: solid 1px rgba(93,93,93,0.5);
+   margin-bottom: 30px;
+ }
+
+ li {
+   margin: 0px 0px 15px 0px;
+ }
+
+ footer {
+   background-color: #e0e0e0;
+   margin-top: 90px;
  }
