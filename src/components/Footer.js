@@ -33,7 +33,7 @@ export default class Footer extends Component {
                             <ul>
                                 <li>newsletter</li>
                                 <li>Sign up for our newsletter and be in the know about upcoming tokyobike events, collaborations, product release, early access & more!</li>
-                                <li><a href="">sign up</a></li>
+                                <li><input placeholder="Add your email here"></input> <a href="">sign up</a></li>
                             </ul>
                             
                         </div>
